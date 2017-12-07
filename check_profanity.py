@@ -1,5 +1,17 @@
 from bad_words import bad_words
 import re
+
+
+#Scan operation - Scans files for profanity and sends alerts to their presence.
+#Censor operation - Scans files and censors the words that match the profanity list.
+
+
+
+
+
+
+
+
 class actions:
 
     def scan():
